@@ -1,0 +1,7 @@
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

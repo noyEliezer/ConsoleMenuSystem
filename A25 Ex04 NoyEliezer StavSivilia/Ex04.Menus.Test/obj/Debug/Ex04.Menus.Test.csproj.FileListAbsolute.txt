@@ -1,0 +1,15 @@
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.AssemblyReference.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

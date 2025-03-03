@@ -1,0 +1,7 @@
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.AssemblyReference.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.CoreCompileInputs.cache
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.dll
+C:\Users\noyel\OneDrive\שולחן העבודה\שנה ג סמסטר א\מנוחה עצמים דוט נט גיא רונן\A25 Ex04 NoyEliezer 315125807 StavSivilia 318430667\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.pdb
